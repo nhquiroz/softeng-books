@@ -1,9 +1,5 @@
-<h1 align="center">
-  <br>
-    :books: softeng-books
-  <br>
-</h1>
+# :books: softeng-books
 
-Free Software Engineering books collection.
+> Free Software Engineering books collection.
 
 - **[`The Beginner's Guide to Faster Websites`](https://www.git-tower.com/learn/website-optimization)**
